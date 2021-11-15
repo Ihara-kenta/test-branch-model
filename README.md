@@ -10,3 +10,4 @@ Git Flow Sample is a branch work flow sample.
 - [x] feature4
 - [x] feature5
 - [x] feature6
+- [x] featureSeven
