@@ -8,3 +8,4 @@ Git Flow Sample is a branch work flow sample.
 	- [x] feature2 
 	- [x] feature3
 - [x] feature4
+- [x] feature5
