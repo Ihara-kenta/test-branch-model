@@ -6,3 +6,4 @@ Git Flow Sample is a branch work flow sample.
 - [x] feature1
 - [ ] epic-test
 	- [x] feature2 
+	- [x] feature3
