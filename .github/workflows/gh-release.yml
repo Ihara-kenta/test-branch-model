@@ -42,4 +42,4 @@ jobs:
           # Identify the release as a prerelease. Defaults to false
           # prerelease: # optional
           # Whether to automatically generate the name and body for this release. If name is specified, the specified name will be used; otherwise, a name will be automatically generated. If body is specified, the body will be pre-pended to the automatically generated notes.
-          generate_release_notes: true # optional
+          # generate_release_notes: true # optional
